@@ -16,7 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MONUMISHRA-XD&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MONUMISHRA-XD &theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=MONUMISHRA-XD&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
